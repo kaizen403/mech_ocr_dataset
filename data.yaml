@@ -1,0 +1,20 @@
+path: .
+train: images/train
+val: images/val
+
+nc: 14
+names:
+  - angular
+  - concentricity
+  - cylindericity
+  - diameter
+  - flatness
+  - parallelism
+  - perpendicularity
+  - position
+  - profile_line
+  - roundness
+  - runout
+  - straightness
+  - symmetry
+  - total_runout
